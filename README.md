@@ -2,7 +2,7 @@
 
 ### Intelligent EV Battery Health Prediction & Monitoring System
 
-![VoltGuard AI Homepage](screenshots/01_homepage.png)
+![VoltGuard AI Homepage](screenshot/01_homepage.png)
 
 VoltGuard AI is a Machine Learning-powered EV battery diagnostics platform that predicts battery degradation, estimates battery health, assesses risk levels, and provides actionable recommendations based on battery usage patterns.
 
@@ -52,7 +52,7 @@ Provides battery maintenance recommendations based on predicted health and degra
 
 ### 🏠 Homepage
 
-![Homepage](screenshots/01_homepage.png)
+![Homepage](screenshot/01_homepage.png)
 
 ---
 
@@ -60,7 +60,7 @@ Provides battery maintenance recommendations based on predicted health and degra
 
 Adjust battery parameters through an interactive sidebar.
 
-![Input Panel](screenshots/02_input_panel.png)
+![Input Panel](screenshot/02_input_panel.png)
 
 ---
 
@@ -68,7 +68,7 @@ Adjust battery parameters through an interactive sidebar.
 
 Instant battery health analysis, risk level detection, and verdict generation.
 
-![Prediction Results](screenshots/03_prediction_results.png)
+![Prediction Results](screenshot/03_prediction_results.png)
 
 ---
 
@@ -76,7 +76,7 @@ Instant battery health analysis, risk level detection, and verdict generation.
 
 Interactive gauge displaying overall battery health score and detailed summary.
 
-![Health Gauge](screenshots/04_health_gauge.png)
+![Health Gauge](screenshot/04_health_gauge.png)
 
 ---
 
@@ -84,7 +84,7 @@ Interactive gauge displaying overall battery health score and detailed summary.
 
 Explore degradation distribution, correlation analysis, and dataset patterns.
 
-![Dataset Insights](screenshots/05_dataset_insights.png)
+![Dataset Insights](screenshot/05_dataset_insights.png)
 
 ---
 
