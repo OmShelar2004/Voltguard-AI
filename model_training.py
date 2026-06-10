@@ -109,7 +109,7 @@ plt.tight_layout()
 
 plt.show()
 
-#show the model
+#save the model
 
 import joblib
 
